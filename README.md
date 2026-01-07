@@ -50,6 +50,4 @@ Ingrese los valores de un nuevo estudiante para obtener su nivel de riesgo.
 
 Autor
 
-Levi Pérez – Proyecto SIC 2025 (Python & IA)
-
-Fin del README.
+Proyecto SIC 2025 (Python & IA)
